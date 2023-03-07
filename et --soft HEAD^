@@ -1,0 +1,35 @@
+[33mcommit e6bb4f1a9494921394f720eec2bb86d92d88ef0f[m[33m ([m[1;36mHEAD -> [m[1;32mstatic-pages[m[33m)[m
+Author: オガワ <ogayo8@gmail.com>
+Date:   Tue Mar 7 00:17:46 2023 +0000
+
+    StaticPagesコントローラーを追加
+
+[33mcommit c28cf70653be80026982b9c57edc482ae50a8480[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: オガワ <ogayo8@gmail.com>
+Date:   Mon Mar 6 23:52:25 2023 +0000
+
+    デプロイエラー対策
+
+[33mcommit b827c217aaf5276c9e4dea09d948e6875f8f80fb[m
+Author: オガワ <ogayo8@gmail.com>
+Date:   Mon Mar 6 23:30:35 2023 +0000
+
+    Add hello
+
+[33mcommit 506d6c583f137cff2363e1b6bc93666bdccbd380[m
+Author: オガワ <ogayo8@gmail.com>
+Date:   Mon Mar 6 23:13:04 2023 +0000
+
+    デプロイエラーの対策
+
+[33mcommit 11b791e75c1c4281640b0dff1716c0c559c86fa2[m
+Author: オガワ <ogayo8@gmail.com>
+Date:   Mon Mar 6 13:32:34 2023 +0000
+
+    READMEを更新
+
+[33mcommit 655609535b5ba56da3b12e846baa323a2dd099d0[m
+Author: オガワ <ogayo8@gmail.com>
+Date:   Mon Mar 6 13:30:27 2023 +0000
+
+    First commit
